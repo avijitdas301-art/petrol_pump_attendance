@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655899370683",
+    "project_id": "maa-nachinda-filling-station",
+    "storage_bucket": "maa-nachinda-filling-station.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655899370683:android:6e4751cd7bcc5543d3359e",
+        "android_client_info": {
+          "package_name": "com.example.petrol_pump_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuPJrltJu7yV3tevJ4h0f2lnTN95hk_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
